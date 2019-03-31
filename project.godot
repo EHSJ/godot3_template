@@ -8,9 +8,14 @@
 
 config_version=4
 
-_global_script_classes=[  ]
+_global_script_classes=[ {
+"base": "CollisionShape2D",
+"class": "Geometry2D",
+"language": "GDScript",
+"path": "res://baseSrc/NodeGeometry2D.gd"
+} ]
 _global_script_class_icons={
-
+"Geometry2D": ""
 }
 
 [application]
