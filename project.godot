@@ -25,6 +25,11 @@ config/icon="res://icon.png"
 config/name_es="Proyecto sin nombre"
 config/name_en="Unnamed Project"
 
+[locale]
+
+translations=PoolStringArray( "res://localization/loc.de.translation", "res://localization/loc.en.translation", "res://localization/loc.es.translation", "res://localization/loc.fr.translation", "res://localization/loc.it.translation", "res://localization/loc.ja.translation", "res://localization/loc.zh.translation" )
+locale_filter=[ 0, [  ] ]
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"
