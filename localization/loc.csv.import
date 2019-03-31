@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://localization/loc.es.translation", "res://localization/loc.en.translation", "res://localization/loc.fr.translation", "res://localization/loc.it.translation", "res://localization/loc.de.translation", "res://localization/loc.ja.translation", "res://localization/loc.zh.translation" ]
+
+source_file="res://localization/loc.csv"
+dest_files=[ "res://localization/loc.es.translation", "res://localization/loc.en.translation", "res://localization/loc.fr.translation", "res://localization/loc.it.translation", "res://localization/loc.de.translation", "res://localization/loc.ja.translation", "res://localization/loc.zh.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

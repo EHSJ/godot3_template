@@ -22,6 +22,8 @@ _global_script_class_icons={
 
 config/name="Proyecto sin nombre"
 config/icon="res://icon.png"
+config/name_es="Proyecto sin nombre"
+config/name_en="Unnamed Project"
 
 [rendering]
 
