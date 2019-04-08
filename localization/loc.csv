@@ -1,6 +1,14 @@
 KEY,es,en,fr,it,de,ja,zh
 IDIOMA,Español,English,Francais,Italiano,Deutsch,日本語,中国
+IDIOMA_V,1.0,1.0,0.1,0.1,0.1,0.2,0.1
+IDIOMA_ESTADO,Actualizada,Updated,,,,,
+DUMMY,Dummy,Dummy,,,,,
+FPS,fps,fps,,,,,
+SALIR,Salir,Exit,,,,,
+DEBUG_MENU,Menú de Depuración,Debug Menu,,,,,
 FICHERO,Fichero,File,,,,,
+TESTS,Pruebas,Tests,,,,,
+CONFIG,Config.,Config,,,,,
 SALUDO,"Hola, Amigo!","Hello, friend!",,,,こんにちは,
 COMO_ESTAS,Cómo está?,How are you?,,,,元気ですか,
 DESPEDIDA,Adiós,Good Bye,,,,さようなら,
