@@ -2,17 +2,29 @@
 
 A Godot game engine 3.x template for new projects.
 
-This template includes:
+This template has these objetives:
 
-- General:
+**Generals**:
+
 - [x] Game localization templates & example
-- [ ] Project's documentation templates
+- [x] Project's documentation templates
+- [ ] Singleton example
+- [ ] Loggin function
+- [ ] Quit game handling
+- [ ] Save game handling
 - [ ] Custom theme example
-- [ ] Main menu
+- [ ] Menu (Ingame Top Style)
+- [ ] Menu (Main,LandingScreen)
+- [ ] Benchmark
   
-- Custom nodes:
-  - [x] Geometry2D
+**Custom nodes**:
 
-- Plugins:
-- [ ] Kanban
-- [ ] Git
+- [x] Shape drawing
+- [ ] MultiValued progress bar
+- [ ] PictureFrame Polaroid
+
+**Externals**:
+
+- [x] Imported IBM Plex Font
+- [ ] Kanban like plugin
+- [ ] Git support
