@@ -2,7 +2,7 @@
 
 A Godot game engine 3.x template for new projects.
 
-This template has these objetives:
+This template has these objectives:
 
 **Generals**:
 
